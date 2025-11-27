@@ -1,4 +1,4 @@
-package main.java.com.javatasksultimate.logic_service;
+package com.javatasksultimate.logic_service;
 
 /**
  * Representa una tarea simple de la lista de pendientes.
