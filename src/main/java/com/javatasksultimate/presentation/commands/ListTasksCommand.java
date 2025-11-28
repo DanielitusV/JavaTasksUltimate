@@ -1,4 +1,4 @@
-package com.javatasksultimate.presentation;
+package com.javatasksultimate.presentation.commands;
 
 import com.javatasksultimate.logic_service.Task;
 import com.javatasksultimate.logic_service.TaskService;

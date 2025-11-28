@@ -1,4 +1,4 @@
-package com.javatasksultimate.presentation;
+package com.javatasksultimate.presentation.commands;
 
 /**
  * Representa una acción ejecutable desde la interfaz de usuario.
